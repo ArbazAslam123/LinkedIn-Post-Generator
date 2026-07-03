@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 class fewShotPosts:
-    def __init__(self,file_path="Path"):
+    def __init__(self,file_path="Your_Path"):
         self.df = pd.DataFrame()
         self.unique_tags = []
         self.load_posts(file_path)
