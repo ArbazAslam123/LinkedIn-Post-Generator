@@ -41,5 +41,5 @@ Instead of relying on generic LLM prompts that produce robotic content, this pro
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/LinkedIn-Post-Generator.git](https://github.com/YourUsername/LinkedIn-Post-Generator.git)
+git clone (https://github.com/YourUsername/LinkedIn-Post-Generator.git)
 cd LinkedIn-Post-Generator
