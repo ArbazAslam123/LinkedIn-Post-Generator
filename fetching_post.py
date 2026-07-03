@@ -100,8 +100,8 @@ def extract_linkedin_posts(profile_url, li_at_cookie, scroll_attempts=5):
 
 # Execution Block
 if __name__ == "__main__":
-    my_cookie = ""
-    target_profile = "https://www.linkedin.com/in/alliekmiller"
+    my_cookie = "Your_LI_AT_Cookie_Here"
+    target_profile = "Target_Account_URL"
     
     print("Starting extraction...")
     # You can change the number '10' below to scroll more or fewer times
