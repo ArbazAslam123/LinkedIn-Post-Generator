@@ -1,0 +1,90 @@
+[
+    {
+        "text": "Talked to a non-technical CHRO who’s seen 73% productivity gains with AI.\n\nShe built a time invoicing system with “Claudia” to audit her own output and impact.\n\nIn 8 weeks, she ran 310 Cowork sessions, built 17 skills, set up 5 recurring scheduled workflows, and created 1 chief of staff and 1 HR compliance agent (for risk logs).\n\nAccording to the daily auditing system, she has completed 13.8 weeks of human work in an 8-week window.\n\nThat’s close to every chat session saving about one human hour of work.\n\nAnd yet, there will still be people that say AI can’t really do anything. At this point, that kind of denial might be one of the biggest risks in AI.",
+        "engagement": 233,
+        "line_count": 6,
+        "langauge": "English",
+        "tags": [
+            "Automation",
+            "Artificial Intelligence",
+            "Productivity",
+            "Recruitment"
+        ]
+    },
+    {
+        "text": "I built out this whole digital workforce of 34 AI agents, and one of the most important ones does no work at all.\n\nThe first 33 run under a chief of staff named Simon. But Simon was a great orchestrator and a terrible critic, so I built a watchdog agent to question if the work is worth doing at all.\n\nI got into this and a LOT more with Dr.\n\nAndrea Jones-Rooy\n, founder of the Data Thinking Revolution, on how she actually uses AI day to day and where the hype falls apart. We also covered why she resisted agents for so long, how she built a Gmail research pipeline with Claude Code, and why token usage tells you who to interview, not who’s doing good work.\n\n⚡️ Full video live now:\n\nhttps://lnkd.in/epsW-NYT",
+        "engagement": 513,
+        "line_count": 7,
+        "langauge": "English",
+        "tags": [
+            "Data Thinking",
+            "Digital Workforce",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "AI agents shouldn't run in single player mode.\n\nSo we changed it.\n\nMost people work in teams, but the more individualistic AI usage gets, the more gatekept its power becomes. So we built agent workforce loops — now my teammates can prompt each other's AI agents (image below).\n\nHow it works (we’re still iterating!):\n\n- Each core teammate gets a \"loop\" Slack channel (ex: loop-allie)\n\n- Teammates + Claude Code/Codex are in it\n\n- Anyone can drop a task in the chat\n\n- Low-risk: my AI Chief of Staff routes it, completes it, verifies, reacts ✅\n\n- Higher-risk (sending emails, pulling files): it preps but stops, drafts only\n\n- I approve by reacting ✅\n\n- The whole workforce runs on a 15-min loop\n\nEssentially: teammates can prompt another teammate's AI agent workforce.",
+        "engagement": 207,
+        "line_count": 12,
+        "langauge": "English",
+        "tags": [
+            "Teamwork",
+            "Artificial Intelligence",
+            "Agents"
+        ]
+    },
+    {
+        "text": "Big news - women’s AI usage has caught up to men’s, according to Pew Research.\n\nWhen Pew first ran this study in 2024, women’s adoption was 28% while men’s sat at 39%. As of February 2026, that same study shows them nearly neck and neck at 47% and 50%, respectively.\n\nOver the last 2 years, we all kept hearing the stat that women were adopting AI 25% less than men. And it looks like at least one big study is showing that data point is changing.\n\nAdoption rates can only tell us so much, but for overall career advancement, the gap closing is promising.\n\nThe study also showed that men are more likely to use AI for work, and that women are more likely to use Meta AI, and that women are more likely to think AI is advancing too quickly. If you want to read the full report, you can grab it here:\n\nhttps://lnkd.in/efbiSse2",
+        "engagement": 418,
+        "line_count": 11,
+        "langauge": "English",
+        "tags": [
+            "Gender Gap",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "If your AI is still being sycophantic, here’s how to solve it 👀\n\n✅ Option 1: “here is my research paper - be critical of it please”\n\n✅ Option 2: “here is my research paper - spin up subagents to review the paper from the lens of Statler and Waldorf and Siskel and Ebert and Einstein and Virginia Woolf and when you pass the task to these subagents, be sure to ask your questions in an unbiased way”\n\n✅ Option 3: have three different AI providers all review the paper\n\n✅ Option 4: “here is a random research paper I found, and I don’t trust the author - what do you REALLY think about it?”",
+        "engagement": 246,
+        "line_count": 5,
+        "langauge": "English",
+        "tags": [
+            "Research",
+            "Bias",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Warning, this is more of a technical, nerdy post. If that's you, keep reading.\n\nThe goal of training a machine learning model is loss minimization.\n\nThat was just being applied to algorithms, and now it's being applied to whole enterprises.\n\nLoss minimization is one thing that the self-learning loop is affording leaders right now.\n\nYou're no longer losing insights from your customers because AI is embedded in your ticketing system. You're no longer losing insights from your team chats because AI is in Slack. You're no longer losing decisions from your leadership because AI is inside of your meetings.\n\nWe've been leaving data value on the table for decades.\n\nAI as an operating system is really aiming to capture that value and compound it.",
+        "engagement": 318,
+        "line_count": 13,
+        "langauge": "English",
+        "tags": [
+            "Machine Learning",
+            "Data Analytics",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Every business leader I talk to eventually asks me the same question: how can I help my kid through this?\n\nA few honest caveats first. I don’t have kids myself, but I see how much anxiety parents are carrying right now, and I want to help. This is one person’s opinion on a topic that’s too important to wing, so I ran it past 15 parents before publishing. And I’m not going to pretend the risks aren’t real. We’ve already seen AI-related psychosis and mental health struggles so this isn’t a “just teach them to vibe code” post.\n\nSo I tried to address both sides: the real dangers and the real opportunities. 9 of them, in this carousel.\n\nThe full newsletter this carousel is based on:\n\nbit.ly/kidsandAI",
+        "engagement": 405,
+        "line_count": 9,
+        "langauge": "English",
+        "tags": [
+            "Mental Health",
+            "Artificial Intelligence",
+            "Parenting"
+        ]
+    },
+    {
+        "text": "I have seen senior managers outpace ICs, and I have seen ICs run circles around the org chart. Titles tell you almost nothing about who is actually going to operate well in the next few years (and might even hold some people back?).\n\nThe three traits I look for in every hire:\n\n✅ High agency\n\n✅ A strong sense of wonder\n\n✅ Complex systems thinking\n\nYou can have all three as a designer, as a finance lead, as a head of people, as a junior analyst. You can also be a VP without a single one of them.",
+        "engagement": 482,
+        "line_count": 8,
+        "langauge": "English",
+        "tags": [
+            "Leadership",
+            "Traits",
+            "Recruitment"
+        ]
+    }
+]

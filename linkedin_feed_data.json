@@ -1,0 +1,35 @@
+[
+    {
+        "text": "Talked to a non-technical CHRO who’s seen 73% productivity gains with AI.She built a time invoicing system with “Claudia” to audit her own output and impact.In 8 weeks, she ran 310 Cowork sessions, built 17 skills, set up 5 recurring scheduled workflows, and created 1 chief of staff and 1 HR compliance agent (for risk logs).According to the daily auditing system, she has completed 13.8 weeks of human work in an 8-week window.That’s close to every chat session saving about one human hour of work.And yet, there will still be people that say AI can’t really do anything. At this point, that kind of denial might be one of the biggest risks in AI.",
+        "engagement": 229
+    },
+    {
+        "text": "I built out this whole digital workforce of 34 AI agents, and one of the most important ones does no work at all.The first 33 run under a chief of staff named Simon. But Simon was a great orchestrator and a terrible critic, so I built a watchdog agent to question if the work is worth doing at all.I got into this and a LOT more with Dr. Andrea Jones-Rooy, founder of the Data Thinking Revolution, on how she actually uses AI day to day and where the hype falls apart. We also covered why she resisted agents for so long, how she built a Gmail research pipeline with Claude Code, and why token usage tells you who to interview, not who’s doing good work.⚡️ Full video live now: https://lnkd.in/epsW-NYT",
+        "engagement": 502
+    },
+    {
+        "text": "AI agents shouldn't run in single player mode.So we changed it.Most people work in teams, but the more individualistic AI usage gets, the more gatekept its power becomes. So we built agent workforce loops — now my teammates can prompt each other's AI agents (image below). How it works (we’re still iterating!):- Each core teammate gets a \"loop\" Slack channel (ex: loop-allie)- Teammates + Claude Code/Codex are in it- Anyone can drop a task in the chat- Low-risk: my AI Chief of Staff routes it, completes it, verifies, reacts ✅- Higher-risk (sending emails, pulling files): it preps but stops, drafts only- I approve by reacting ✅- The whole workforce runs on a 15-min loopEssentially: teammates can prompt another teammate's AI agent workforce.",
+        "engagement": 206
+    },
+    {
+        "text": "Big news - women’s AI usage has caught up to men’s, according to Pew Research.When Pew first ran this study in 2024, women’s adoption was 28% while men’s sat at 39%. As of February 2026, that same study shows them nearly neck and neck at 47% and 50%, respectively.Over the last 2 years, we all kept hearing the stat that women were adopting AI 25% less than men. And it looks like at least one big study is showing that data point is changing.Adoption rates can only tell us so much, but for overall career advancement, the gap closing is promising.The study also showed that men are more likely to use AI for work, and that women are more likely to use Meta AI, and that women are more likely to think AI is advancing too quickly. If you want to read the full report, you can grab it here: https://lnkd.in/efbiSse2",
+        "engagement": 418
+    },
+    {
+    
+        "text": "If your AI is still being sycophantic, here’s how to solve it 👀✅ Option 1: “here is my research paper - be critical of it please”✅ Option 2: “here is my research paper - spin up subagents to review the paper from the lens of Statler and Waldorf and Siskel and Ebert and Einstein and Virginia Woolf and when you pass the task to these subagents, be sure to ask your questions in an unbiased way”✅ Option 3: have three different AI providers all review the paper✅ Option 4: “here is a random research paper I found, and I don’t trust the author - what do you REALLY think about it?”",
+        "engagement": 246
+    },
+    {
+        "text": "Warning, this is more of a technical, nerdy post. If that's you, keep reading.The goal of training a machine learning model is loss minimization.That was just being applied to algorithms, and now it's being applied to whole enterprises.Loss minimization is one thing that the self-learning loop is affording leaders right now.You're no longer losing insights from your customers because AI is embedded in your ticketing system. You're no longer losing insights from your team chats because AI is in Slack. You're no longer losing decisions from your leadership because AI is inside of your meetings.We've been leaving data value on the table for decades.AI as an operating system is really aiming to capture that value and compound it.",
+        "engagement": 318
+    },
+    {
+        "text": "Every business leader I talk to eventually asks me the same question: how can I help my kid through this?A few honest caveats first. I don’t have kids myself, but I see how much anxiety parents are carrying right now, and I want to help. This is one person’s opinion on a topic that’s too important to wing, so I ran it past 15 parents before publishing. And I’m not going to pretend the risks aren’t real. We’ve already seen AI-related psychosis and mental health struggles so this isn’t a “just teach them to vibe code” post.So I tried to address both sides: the real dangers and the real opportunities. 9 of them, in this carousel.The full newsletter this carousel is based on: bit.ly/kidsandAI",
+        "engagement": 405
+    },
+    {
+        "text": "I have seen senior managers outpace ICs, and I have seen ICs run circles around the org chart. Titles tell you almost nothing about who is actually going to operate well in the next few years (and might even hold some people back?).The three traits I look for in every hire:✅ High agency✅ A strong sense of wonder✅ Complex systems thinkingYou can have all three as a designer, as a finance lead, as a head of people, as a junior analyst. You can also be a VP without a single one of them.",
+        "engagement": 482
+    }
+]
