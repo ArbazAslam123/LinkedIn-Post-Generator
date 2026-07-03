@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 class fewShotPosts:
-    def __init__(self,file_path="D://NextGen Internship Task//AI ML Learning//LinkedIn Post Generator//data//processed_post.json"):
+    def __init__(self,file_path="Path"):
         self.df = pd.DataFrame()
         self.unique_tags = []
         self.load_posts(file_path)
@@ -49,28 +49,3 @@ if __name__ == "__main__":
     posts= few_shot.get_filtered_posts(length="medium", language="English", tag="Data Thinking")
     # ADD THIS: Print the filtered posts nicely formatted
     print(json.dumps(posts, indent=4, ensure_ascii=False))
-
-
-# import json
-# import os
-# import pandas as pd
-
-# class FewShotPosts:
-#     def __init__(self, file_path="D:/NextGen Internship Task/AI ML Learning/LinkedIn Post Generator/data/processed_post.json"):
-#         self.df = pd.DataFrame()
-#         self.unique_tags = None
-#         self.load_posts(file_path)
-
-#     def load_posts(self, file_path):
-#         if not os.path.exists(file_path):
-#             raise FileNotFoundError(f"File not found: {file_path}")
-
-#         with open(file_path, encoding="utf-8") as f:
-#             posts = json.load(f)
-
-#         self.df = pd.json_normalize(posts)
-
-# if __name__ == "__main__":
-#     few_shot = FewShotPosts()
-#     print(few_shot.df.info())
-#     pass
